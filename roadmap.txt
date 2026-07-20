@@ -1,0 +1,31 @@
+Fase 1 — Fondasi
+✅ OverTheWire Bandit (selesai)
+⏳ HTB Starting Point (selesaikan semuanya yang gratis)
+PortSwigger Web Security Academy (lab gratis)
+Linux CLI
+Networking dasar
+
+Fase 2 — Sistem
+Windows fundamentals
+Active Directory dasar
+Docker
+Bash
+Python dasar untuk otomasi
+Wireshark
+Sysmon
+
+Fase 3 — Defensive Security
+Wazuh
+Elastic Stack
+Sigma Rules
+YARA (dasar)
+Analisis log
+Incident Response dasar
+
+Fase 4 — Portofolio
+Home Lab
+Dokumentasi investigasi
+Write-up teknis
+GitHub
+LinkedIn
+Medium

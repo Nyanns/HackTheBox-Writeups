@@ -1,0 +1,16 @@
+Roadmap kita selanjutnya
+
+Karena targetmu adalah menjadi profesional cybersecurity dengan jalur gratis, aku menyarankan urutan berikut:
+
+✅ Meow
+Fawn (belajar FTP)
+Dancing (belajar SMB)
+Redeemer (belajar Redis)
+Appointment
+Sequel
+Crocodile
+Responder
+Three
+Seluruh Starting Point yang gratis
+Lanjut ke Hack The Box Labs gratis
+Selingi dengan PortSwigger Web Security Academy untuk belajar keamanan web.

@@ -1,0 +1,10 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-07-18 11:31 +0700
+Nmap scan report for 10.129.209.185
+Host is up (0.27s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+23/tcp open  telnet  Linux telnetd
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 51.50 seconds

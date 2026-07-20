@@ -1,0 +1,12 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-07-19 17:30 +0700
+Stats: 0:00:11 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 60.90% done; ETC: 17:30 (0:00:06 remaining)
+Nmap scan report for 10.129.213.246
+Host is up (0.27s latency).
+Not shown: 999 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     vsftpd 3.0.3
+Service Info: OS: Unix
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.63 seconds

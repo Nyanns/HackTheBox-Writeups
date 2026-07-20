@@ -1,0 +1,9 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-07-20 08:22 +0700
+Warning: 10.129.170.144 giving up on port because retransmission cap hit (6).
+Nmap scan report for 10.129.170.144
+Host is up (0.28s latency).
+Not shown: 65508 closed tcp ports (conn-refused), 26 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+6379/tcp open  redis
+
+Nmap done: 1 IP address (1 host up) scanned in 80.53 seconds
