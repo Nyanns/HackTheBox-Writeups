@@ -1,0 +1,16 @@
+.htaccess.php       [33m (Status: 403)[0m [Size: 279]
+.htpasswd.php       [33m (Status: 403)[0m [Size: 279]
+.hta.php            [33m (Status: 403)[0m [Size: 279]
+.hta                [33m (Status: 403)[0m [Size: 279]
+.htaccess           [33m (Status: 403)[0m [Size: 279]
+.htpasswd           [33m (Status: 403)[0m [Size: 279]
+assets              [36m (Status: 301)[0m [Size: 317][34m [--> http://10.129.173.245/assets/][0m
+config.php          [32m (Status: 200)[0m [Size: 0]
+css                 [36m (Status: 301)[0m [Size: 314][34m [--> http://10.129.173.245/css/][0m
+dashboard           [36m (Status: 301)[0m [Size: 320][34m [--> http://10.129.173.245/dashboard/][0m
+fonts               [36m (Status: 301)[0m [Size: 316][34m [--> http://10.129.173.245/fonts/][0m
+index.html          [32m (Status: 200)[0m [Size: 58565]
+js                  [36m (Status: 301)[0m [Size: 313][34m [--> http://10.129.173.245/js/][0m
+login.php           [32m (Status: 200)[0m [Size: 1577]
+logout.php          [36m (Status: 302)[0m [Size: 0][34m [--> login.php][0m
+server-status       [33m (Status: 403)[0m [Size: 279]

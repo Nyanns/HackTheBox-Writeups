@@ -1,0 +1,5 @@
+# Nmap 7.98 scan initiated Mon Jul 20 20:07:06 2026 as: nmap -sS -p- -sV -sC -O -T4 -v -oA htb_target 202.10.48.178
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 202.10.48.178 ()	Status: Up
+Host: 202.10.48.178 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.0 (protocol 2.0)/, 80/open/tcp//http//nginx 1.14.1/	Ignored State: filtered (65533)	Seq Index: 259	IP ID Seq: All zeros
+# Nmap done at Mon Jul 20 20:07:46 2026 -- 1 IP address (1 host up) scanned in 40.24 seconds
