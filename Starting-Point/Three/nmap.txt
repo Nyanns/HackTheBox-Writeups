@@ -1,0 +1,22 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-07-23 18:22 +0700
+Initiating Parallel DNS resolution of 1 host. at 18:22
+Completed Parallel DNS resolution of 1 host. at 18:22, 0.50s elapsed
+Initiating SYN Stealth Scan at 18:22
+Scanning 10.129.227.248 [65535 ports]
+Discovered open port 80/tcp on 10.129.227.248
+Discovered open port 22/tcp on 10.129.227.248
+Discovered open port 22/tcp on 10.129.227.248
+Increasing send delay for 10.129.227.248 from 0 to 5 due to max_successful_tryno increase to 4
+Increasing send delay for 10.129.227.248 from 5 to 10 due to max_successful_tryno increase to 5
+Increasing send delay for 10.129.227.248 from 10 to 20 due to max_successful_tryno increase to 6
+Completed SYN Stealth Scan at 18:22, 17.58s elapsed (65535 total ports)
+Nmap scan report for 10.129.227.248
+Host is up (0.27s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 18.22 seconds
+           Raw packets sent: 83716 (3.684MB) | Rcvd: 68374 (2.735MB)
